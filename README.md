@@ -1,4 +1,4 @@
-#PaperMC Example Plugin
+# PaperMC Example Plugin
 
 This is a reference project. It includes the bare minimum setup for a plugin.
 
