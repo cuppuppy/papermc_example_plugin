@@ -6,7 +6,7 @@ This is a reference project. It includes the bare minimum setup for a plugin.
 
 `./gradlew build`
 May take some time as the first time you build the plugin it requires a copy
-of the vanilla mincraft server.
+of the vanilla minecraft server.
 
 The plugin will be located in `build/libs/
 
